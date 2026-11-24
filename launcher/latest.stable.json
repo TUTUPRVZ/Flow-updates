@@ -1,0 +1,8 @@
+{
+  "product_id": "flow-launcher",
+  "channel": "stable",
+  "version": "0.2.2",
+  "url": "https://github.com/TUTUPRVZ/Flow-updates/releases/download/launcher-v0.2.2/FlowLauncherSetup-0.2.2.exe",
+  "sha256": "f8f2f8f3f709ab9253ed745c7723faa6847decc01a873e9117b3fb2ada61aed5",
+  "notes_url": "https://github.com/TUTUPRVZ/Flow-updates/releases/tag/launcher-v0.2.2"
+}
